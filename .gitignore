@@ -1,0 +1,4 @@
+*.lck
+*.swp
+*.kicad_prl
+.history/
