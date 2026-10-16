@@ -5,7 +5,7 @@ A compact **data logger board** built around the **ATmega328P**, the same chip t
 🛠️ **My part:** I recreated the schematic of an existing circuit in **KiCad 10** and designed the complete PCB for it, from component placement to routing.
 
 <p align="center">
-  <img src="Screenshot%202026-10-16%20113004.png" alt="3D view – top" width="650">
+  <img src="Images/Screenshot%202026-10-16%20113004.png" alt="3D view – top" width="650">
 </p>
 
 ## 🔍 What's on the board
@@ -21,12 +21,12 @@ A compact **data logger board** built around the **ATmega328P**, the same chip t
 
 Redrawn in KiCad from the original circuit and organized into clear blocks: clock, MCU, memory and connectors.
 
-<img src="Screenshot%202026-10-16%20113028.png" alt="Schematic" width="100%">
+<img src="Images/Screenshot%202026-10-16%20113028.png" alt="Schematic" width="100%">
 
 <details>
 <summary>Connectors sheet</summary>
 <br>
-<img src="Screenshot%202026-10-16%20113036.png" alt="Connectors sheet" width="400">
+<img src="Images/Screenshot%202026-10-16%20113036.png" alt="Connectors sheet" width="400">
 </details>
 
 ## 🟩 PCB
@@ -35,11 +35,11 @@ A 2-layer board with ground fill on both sides. The crystals sit right next to t
 
 | Component placement | Routing (red = top, blue = bottom) |
 |:---:|:---:|
-| <img src="Screenshot%202026-10-16%20112928.png" width="400"> | <img src="Screenshot%202026-10-16%20112942.png" width="400"> |
+| <img src="Images/Screenshot%202026-10-16%20112928.png" width="400"> | <img src="Images/Screenshot%202026-10-16%20112942.png" width="400"> |
 
 | 3D – top | 3D – bottom |
 |:---:|:---:|
-| <img src="Screenshot%202026-10-16%20113004.png" width="400"> | <img src="Screenshot%202026-10-16%20113012.png" width="400"> |
+| <img src="Images/Screenshot%202026-10-16%20113004.png" width="400"> | <img src="Images/Screenshot%202026-10-16%20113012.png" width="400"> |
 
 ## 📂 Open the project
 
